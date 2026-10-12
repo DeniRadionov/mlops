@@ -2,11 +2,11 @@
 fastapi
 uvicorn
 
-# --- NLP ---
+# --- ML ---
 torch
 transformers
 
-# --- Validation / Schemas ---
+# --- Validation ---
 pydantic
 
 # --- Testing ---
